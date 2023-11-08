@@ -1,0 +1,34 @@
+C# (https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/tutorials/hello-world?tutorial-step=2): string aFriend = "Ana";
+Console.WriteLine("Hello " + aFriend);
+
+CARACTERÍSTICAS:
+*O C# tem foco na compilação de soluções de alto nível.
+*É ideal para a criação de jogos. 
+*A sintaxe do C# é simples.
+*Possui script com extensão ". csx"
+
+RUBY (https://try.ruby-lang.org/): 1.times do
+  print 'Buongiorno '
+end  
+
+CARACTERÍSTICAS:
+*Linguagem multi-plataforma, sendo assim suportada por diversos tipos de sistemas operacionais como Linux, Windows, Solares e outros.
+*A Sintaxe do Ruby é simples e exata, sem necessidades de caracteres de término de uma instrução.
+*O objetivo principal da linguagem Ruby é a produtividade do programador.
+
+
+JavaScript (https://playcode.io/javascript): const message = 'Bom dia Brasil!' // Try edit me
+
+// Update header text
+document.querySelector('#header').innerHTML = message
+
+// Log to console
+console.log(message)
+
+CARACTERÍSTICAS:
+*É executado apenas em um browser.
+*É uma linguagem de scripts OOP.
+*Os códigos JavaScript estão totalmente em texto.
+*O JavaScript não cria aplicações independentes.
+*Surgiu com o objetivo principal de tornar as aplicações Web mais dinâmicas.
+*É ideal para o desenvolvimento web.
